@@ -1,6 +1,7 @@
 {
   "name": "@skillboss/mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "mcpName": "io.github.heeyo-life/skillboss",
   "description": "SkillBoss MCP Server - Access 100+ AI models and services via Model Context Protocol",
   "type": "module",
   "main": "dist/index.js",
